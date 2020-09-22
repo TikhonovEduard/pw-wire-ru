@@ -1,0 +1,21 @@
+{
+    "file": "wire\/modules\/LanguageSupport\/LanguageSupport.module",
+    "textdomain": "wire--modules--languagesupport--languagesupport-module",
+    "translations": {
+        "3f94f86633491ad8e5d18f5e481330c2": {
+            "text": "\u0418\u0437\u043c\u0435\u043d\u0435\u043d\u0438\u044f \u0432 \u044d\u0442\u043e\u043c \u043f\u043e\u043b\u0435 \u043d\u0435 \u0431\u0443\u0434\u0443\u0442 \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u044b, \u043f\u043e\u0441\u043a\u043e\u043b\u044c\u043a\u0443 \u0443 \u0432\u0430\u0441 \u043d\u0435\u0442 \u043f\u0440\u0430\u0432 \u0434\u043b\u044f \u044f\u0437\u044b\u043a\u0430: %s."
+        },
+        "4994a8ffeba4ac3140beb89e8d41f174": {
+            "text": "\u042f\u0437\u044b\u043a"
+        },
+        "185d23ff9526ad93077a1c9ad5ed26a2": {
+            "text": "\u0410\u0434\u0440\u0435\u0441 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u043e\u0439 \u043f\u043e\u0447\u0442\u044b"
+        },
+        "b78a3223503896721cca1303f776159b": {
+            "text": "\u0417\u0430\u0433\u043e\u043b\u043e\u0432\u043e\u043a"
+        },
+        "0d61f8370cad1d412f80b84d143e1257": {
+            "text": "ru_RU.UTF-8"
+        }
+    }
+}

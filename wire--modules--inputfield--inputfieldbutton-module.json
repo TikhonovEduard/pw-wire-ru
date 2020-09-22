@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldButton.module",
+    "textdomain": "wire--modules--inputfield--inputfieldbutton-module",
+    "translations": {
+        "3691c9189afe50505955f4ef8181ae3c": {
+            "text": "\u042d\u043b\u0435\u043c\u0435\u043d\u0442  \u0444\u043e\u0440\u043c\u044b - \u043a\u043d\u043e\u043f\u043a\u0430 , \u0432 \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0432\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u043f\u0435\u0440\u0435\u0434\u0430\u0442\u044c \u0430\u0442\u0440\u0438\u0431\u0443\u0442 href."
+        },
+        "87b7760f14fbff78d8819291f36ab9a0": {
+            "text": "\u041a\u043d\u043e\u043f\u043a\u0430"
+        }
+    }
+}

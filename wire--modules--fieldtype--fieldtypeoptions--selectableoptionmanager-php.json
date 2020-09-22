@@ -1,0 +1,24 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeOptions\/SelectableOptionManager.php",
+    "textdomain": "wire--modules--fieldtype--fieldtypeoptions--selectableoptionmanager-php",
+    "translations": {
+        "2d69a46d1c7373516d647ec1636d66fd": {
+            "text": "\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d \u043f\u0430\u0440\u0430\u043c\u0435\u0442\u0440 %d"
+        },
+        "56dc9608d20a7e6e0201b2d25aa76bce": {
+            "text": "\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u044b \u043f\u0430\u0440\u0430\u043c\u0435\u0442\u0440\u044b %d"
+        },
+        "015bac68292c77ebb2f20e00bb757cc0": {
+            "text": "\u041f\u0430\u0440\u0430\u043c\u0435\u0442\u0440 %d \u0443\u0434\u0430\u043b\u0435\u043d"
+        },
+        "21202163b28233f3079e28bcc740d9c0": {
+            "text": "\u0423\u0434\u0430\u043b\u0435\u043d\u043e %d \u043f\u0430\u0440\u0430\u043c\u0435\u0442\u0440\u043e\u0432"
+        },
+        "9c002c0cfca97d4b668d259317d293b8": {
+            "text": "\u0414\u043e\u0431\u0430\u0432\u043b\u0435\u043d \u043f\u0430\u0440\u0430\u043c\u0435\u0442\u0440 %d"
+        },
+        "ab233d34b7f1475903d309a223ceecd1": {
+            "text": "\u0414\u043e\u0431\u0430\u0432\u043b\u0435\u043d\u043e %d \u043f\u0430\u0440\u0430\u043c\u0435\u0442\u0440\u043e\u0432"
+        }
+    }
+}

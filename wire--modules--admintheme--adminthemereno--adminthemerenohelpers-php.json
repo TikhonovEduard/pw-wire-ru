@@ -1,0 +1,33 @@
+{
+    "file": "wire\/modules\/AdminTheme\/AdminThemeReno\/AdminThemeRenoHelpers.php",
+    "textdomain": "wire--modules--admintheme--adminthemereno--adminthemerenohelpers-php",
+    "translations": {
+        "3b0c14770e6bd663518496da60f524da": {
+            "text": "\u0421\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0430"
+        },
+        "e8209ff97e2fd1fd89a08e2dbee3673c": {
+            "text": "\u0424\u043e\u0440\u0443\u043c\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438"
+        },
+        "5b6cf869265c13af8566f192b4ab3d2a": {
+            "text": "\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430\u0446\u0438\u044f"
+        },
+        "aecb91ec8d874934a5dece9ac6ec55c5": {
+            "text": "GitHub \u0445\u0440\u0430\u043d\u0438\u043b\u0438\u0449\u0435"
+        },
+        "1c8a4467581c8a67def0a02f975a9f10": {
+            "text": "\u0428\u043f\u0430\u0440\u0433\u0430\u043b\u043a\u0430"
+        },
+        "35ad48797a780091740cbcf14ebc094d": {
+            "text": "\u0425\u0443\u043a\u0438"
+        },
+        "cce99c598cfdb9773ab041d54c3d973a": {
+            "text": "\u041f\u0440\u043e\u0444\u0438\u043b\u044c"
+        },
+        "0323de4f66a1700e2173e9bcdce02715": {
+            "text": "\u0412\u044b\u0439\u0442\u0438"
+        },
+        "7421d68c70dfc346497573bf4e08acc5": {
+            "text": "\u0418\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u044b \u0440\u0435\u0436\u0438\u043c\u0430 \u043e\u0442\u043b\u0430\u0434\u043a\u0438"
+        }
+    }
+}

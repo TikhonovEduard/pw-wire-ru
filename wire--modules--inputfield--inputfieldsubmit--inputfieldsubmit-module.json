@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldSubmit\/InputfieldSubmit.module",
+    "textdomain": "wire--modules--inputfield--inputfieldsubmit--inputfieldsubmit-module",
+    "translations": {
+        "a4d3b161ce1309df1c4e25df28694b7b": {
+            "text": "\u041e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u044c"
+        },
+        "297eb192f98270827a86fb18005b1e35": {
+            "text": "\u041a\u043d\u043e\u043f\u043a\u0430 \u043e\u0442\u043f\u0440\u0430\u0432\u043a\u0438 \u0444\u043e\u0440\u043c\u044b"
+        }
+    }
+}

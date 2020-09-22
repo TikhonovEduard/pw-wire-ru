@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldIcon\/InputfieldIcon.module",
+    "textdomain": "wire--modules--inputfield--inputfieldicon--inputfieldicon-module",
+    "translations": {
+        "817434295a673aed431435658b65d9a7": {
+            "text": "\u0417\u043d\u0430\u0447\u043e\u043a"
+        },
+        "d3899694e364033d1d639933da6d5529": {
+            "text": "\u041f\u043e\u043a\u0430\u0437\u0430\u0442\u044c \u0432\u0441\u0435 \u0437\u043d\u0430\u0447\u043a\u0438"
+        },
+        "da16f4b493c9497089a9572292a48002": {
+            "text": "\u0412\u044b\u0431\u0440\u0430\u0442\u044c \u0437\u043d\u0430\u0447\u043e\u043a"
+        }
+    }
+}

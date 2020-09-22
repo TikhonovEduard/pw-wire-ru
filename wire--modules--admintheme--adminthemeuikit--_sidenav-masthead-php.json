@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/AdminTheme\/AdminThemeUikit\/_sidenav-masthead.php",
+    "textdomain": "wire--modules--admintheme--adminthemeuikit--_sidenav-masthead-php",
+    "translations": {
+        "a603905470e2a5b8c13e96b579ef0dba": {
+            "text": "\u041e\u0442\u043b\u0430\u0434\u043a\u0430"
+        },
+        "bdb2999f28589aad2b040c21930c86dc": {
+            "text": "\u0411\u043e\u043a\u043e\u0432\u0430\u044f \u043f\u0430\u043d\u0435\u043b\u044c \u043d\u0430\u0432\u0438\u0433\u0430\u0446\u0438\u0438"
+        },
+        "abba6550796b8befa890c581127fd644": {
+            "text": "\u0411\u043e\u043a\u043e\u0432\u0430\u044f \u043f\u0430\u043d\u0435\u043b\u044c \u0434\u0435\u0440\u0435\u0432\u0430 \u0441\u0442\u0440\u0430\u043d\u0438\u0446"
+        }
+    }
+}

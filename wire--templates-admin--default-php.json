@@ -1,0 +1,81 @@
+{
+    "file": "wire\/templates-admin\/default.php",
+    "textdomain": "wire--templates-admin--default-php",
+    "translations": {
+        "453aceb005ceaf54a47da15fee8b2a26": {
+            "text": "C\u0442\u0440\u0430\u043d\u0438\u0446\u044b"
+        },
+        "3b0c14770e6bd663518496da60f524da": {
+            "text": "\u0414\u0435\u0440\u0435\u0432\u043e \u0441\u0442\u0440\u0430\u043d\u0438\u0446"
+        },
+        "4cfa6c981549e990fe2344e4c805405e": {
+            "text": "\u041f\u043e\u0438\u0441\u043a"
+        },
+        "ad2376beebecdcf7846ba973fa1a005b": {
+            "text": "\u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438"
+        },
+        "bf17ac149e2e7a530c677e9bd51d3fd2": {
+            "text": "\u041c\u043e\u0434\u0443\u043b\u0438"
+        },
+        "bf733d8a933c1601697f364223fc7ecb": {
+            "text": "\u0414\u043e\u0441\u0442\u0443\u043f"
+        },
+        "e3afed0047b08059d0fada10f400c1e5": {
+            "text": "\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435"
+        },
+        "a7d6475ec8993b7224d6facc8cb0ead6": {
+            "text": "\u0421\u0430\u0439\u0442"
+        },
+        "5e248eb2e87e649e91cc3168e20adf90": {
+            "text": "\u041f\u0435\u0440\u0435\u0439\u0442\u0438 \u043d\u0430 \u0441\u0430\u0439\u0442"
+        },
+        "3a08e2e340ab29fd9263af48193cbf8e": {
+            "text": "\u042f\u0437\u044b\u043a\u0438"
+        },
+        "f9aae5fda8d810a29f12d1e61b4ab25f": {
+            "text": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0438"
+        },
+        "a5cd3ed116608dac017f14c046ea56bf": {
+            "text": "\u0413\u0440\u0443\u043f\u043f\u044b"
+        },
+        "d08ccf52b4cdd08e41cfb99ec42e0b29": {
+            "text": "\u041f\u0440\u0430\u0432\u0430 \u0434\u043e\u0441\u0442\u0443\u043f\u0430"
+        },
+        "7df96b18c230f90ada0a9e2307226338": {
+            "text": "\u0428\u0430\u0431\u043b\u043e\u043d\u044b"
+        },
+        "a4ca5edd20d0b5d502ebece575681f58": {
+            "text": "\u041f\u043e\u043b\u044f"
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "\u0414\u043e\u0431\u0430\u0432\u0438\u0442\u044c"
+        },
+        "dae52b80711ee1029c7006f95018d300": {
+            "text": "\u041f\u043e\u0441\u043b\u0435\u0434\u043d\u0435\u0435"
+        },
+        "b2d37ae1cedf42ff874289b721860af2": {
+            "text": "\u041b\u043e\u0433\u0438"
+        },
+        "7dce122004969d56ae2e0245cb754d35": {
+            "text": "\u0420\u0435\u0434\u0430\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u0442\u044c"
+        },
+        "7a69d6b27362b48011a2a09c56e04bce": {
+            "text": "\u0417\u0430\u043a\u043b\u0430\u0434\u043a\u0438"
+        },
+        "b2a54cbbf075b72ad60f3d2afc27e996": {
+            "text": "\u0420\u0435\u0434\u0430\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u044b"
+        },
+        "c43a3544f4b6646216ab7fe6020b84b2": {
+            "text": "\u0421\u043f\u0438\u0441\u043e\u043a \u0441\u0442\u0440\u0430\u043d\u0438\u0446"
+        },
+        "cce99c598cfdb9773ab041d54c3d973a": {
+            "text": "\u041f\u0440\u043e\u0444\u0438\u043b\u044c"
+        },
+        "0323de4f66a1700e2173e9bcdce02715": {
+            "text": "\u0412\u044b\u0439\u0442\u0438"
+        },
+        "9cfefed8fb9497baa5cd519d7d2bb5d7": {
+            "text": "ru"
+        }
+    }
+}

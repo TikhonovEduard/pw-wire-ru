@@ -1,0 +1,18 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldHidden.module",
+    "textdomain": "wire--modules--inputfield--inputfieldhidden-module",
+    "translations": {
+        "689202409e48743b914713f96d93947c": {
+            "text": "\u0417\u043d\u0430\u0447\u0435\u043d\u0438\u0435"
+        },
+        "1758cb96bcb06c04bd244697d51ed7dd": {
+            "text": "\u0417\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u0434\u043b\u044f \u0437\u0430\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u0432 \u044d\u0442\u043e\u043c \u0441\u043a\u0440\u044b\u0442\u043e\u043c \u043f\u043e\u043b\u0435."
+        },
+        "7acdf85c69cc3c5305456a293524386e": {
+            "text": "\u0421\u043a\u0440\u044b\u0442\u043e\u0435 \u043f\u043e\u043b\u0435"
+        },
+        "82a84988fe9847b174ab13ccd822f53c": {
+            "text": "\u0421\u043a\u0440\u044b\u0442\u043e\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u0432 \u0444\u043e\u0440\u043c\u0435"
+        }
+    }
+}

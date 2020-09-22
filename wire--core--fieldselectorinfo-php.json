@@ -1,0 +1,15 @@
+{
+    "file": "wire\/core\/FieldSelectorInfo.php",
+    "textdomain": "wire--core--fieldselectorinfo-php",
+    "translations": {
+        "78c143802119a85c9774c0459240085d": {
+            "text": "\u041f\u0443\u0441\u0442\u043e"
+        },
+        "cbe0970a192d6df9999f4469f0854984": {
+            "text": "\u041d\u0435 \u043f\u0443\u0441\u0442\u043e"
+        },
+        "f89b7999f24e670f71368f38ac517530": {
+            "text": "\u041d\u0435: %s"
+        }
+    }
+}

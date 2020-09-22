@@ -1,0 +1,45 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageList\/ProcessPageListRender.php",
+    "textdomain": "wire--modules--process--processpagelist--processpagelistrender-php",
+    "translations": {
+        "7dce122004969d56ae2e0245cb754d35": {
+            "text": "\u0420\u0435\u0434\u0430\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u0442\u044c"
+        },
+        "4351cfebe4b61d8aa5efa1d020710005": {
+            "text": "\u041f\u0440\u043e\u0441\u043c\u043e\u0442\u0440"
+        },
+        "03c2e7e41ffc181a4e84080b4710e81e": {
+            "text": "\u0414\u043e\u0431\u0430\u0432\u0438\u0442\u044c"
+        },
+        "6bc362dbf494c61ea117fe3c71ca48a5": {
+            "text": "\u041f\u0435\u0440\u0435\u043c\u0435\u0441\u0442\u0438\u0442\u044c"
+        },
+        "ce2c8aed9c2fa0cfbed56cbda4d8bf07": {
+            "text": "\u041e\u0447\u0438\u0441\u0442\u0438\u0442\u044c"
+        },
+        "a29bdd003ef6c0c34279807341f450f2": {
+            "text": "\u041f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u0442\u044c"
+        },
+        "f40271af9378ba3b92b006eb2f2441bb": {
+            "text": "\u0421\u043d\u044f\u0442\u044c \u0441 \u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0446\u0438\u0438"
+        },
+        "62a5e490880a92eef74f167d9dc6dca0": {
+            "text": "\u0421\u043a\u0440\u044b\u0442\u044c"
+        },
+        "c41263e9868393a11717a8fd89de95f8": {
+            "text": "\u041e\u0442\u043a\u0440\u044b\u0442\u044c"
+        },
+        "b485167c5b0e59d47009a16f90fe2659": {
+            "text": "\u0417\u0430\u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u0430\u0442\u044c"
+        },
+        "7e7123b0d269ad5d9ec8d12c52a8ed8a": {
+            "text": "\u0420\u0430\u0437\u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u0430\u0442\u044c"
+        },
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "\u041f\u0435\u0440\u0435\u043c\u0435\u0441\u0442\u0438\u0442\u044c \u0432 \u043a\u043e\u0440\u0437\u0438\u043d\u0443"
+        },
+        "2bd339d85ee3b33e513359ce781b60cc": {
+            "text": "\u0412\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c"
+        }
+    }
+}

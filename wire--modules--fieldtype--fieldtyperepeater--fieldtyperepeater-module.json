@@ -1,0 +1,9 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeRepeater\/FieldtypeRepeater.module",
+    "textdomain": "wire--modules--fieldtype--fieldtyperepeater--fieldtyperepeater-module",
+    "translations": {
+        "64137776d10ddf89ff3087915287b872": {
+            "text": "\u041f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0442 \u043a\u043e\u043b\u043b\u0435\u043a\u0446\u0438\u044e \u043f\u043e\u043b\u0435\u0439, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043f\u043e\u0432\u0442\u043e\u0440\u044f\u044e\u0442\u0441\u044f \u043b\u044e\u0431\u043e\u0435 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0440\u0430\u0437."
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldFloat.module",
+    "textdomain": "wire--modules--inputfield--inputfieldfloat-module",
+    "translations": {
+        "22ae0e2b89e5e3d477f988cc36d3272b": {
+            "text": "\u041f\u043b\u0430\u0432\u0430\u044e\u0449\u0430\u044f \u0442\u043e\u0447\u043a\u0430"
+        },
+        "7de752758d9c197324e94fd4a993f9d2": {
+            "text": "\u0427\u0438\u0441\u043b\u043e \u0441 \u043f\u043b\u0430\u0432\u0430\u044e\u0449\u0435\u0439 \u0442\u043e\u0447\u043a\u043e\u0439"
+        },
+        "211efcb1aa9b0567969d0ce5a18d850c": {
+            "text": "\u041a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0437\u043d\u0430\u043a\u043e\u0432 \u043f\u043e\u0441\u043b\u0435 \u0437\u0430\u043f\u044f\u0442\u043e\u0439 \u043f\u043e\u0441\u043b\u0435 \u043e\u043a\u0440\u0443\u0433\u043b\u0435\u043d\u0438\u044f"
+        }
+    }
+}

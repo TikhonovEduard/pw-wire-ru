@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldSelectMultiple.module",
+    "textdomain": "wire--modules--inputfield--inputfieldselectmultiple-module",
+    "translations": {
+        "019fce53dcc7e7f5a3abea240de44d77": {
+            "text": "\u0420\u0430\u0437\u043c\u0435\u0440: \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0441\u0442\u0440\u043e\u043a, \u0432\u0438\u0434\u0438\u043c\u044b\u0445 \u043e\u0434\u043d\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e \u0432 \u0432\u044b\u0431\u0440\u0430\u043d\u043d\u043e\u043c \u043c\u043d\u043e\u0436\u0435\u0441\u0442\u0432\u0435"
+        },
+        "eefa4a712878aa9e7c3a4fdb9ab10adf": {
+            "text": "\u041c\u043d\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0432\u044b\u0431\u043e\u0440 \u0438\u0437 \u0441\u043f\u0438\u0441\u043a\u0430"
+        },
+        "6faad70d6719b405a08c5121e31e258b": {
+            "text": "\u0412\u044b\u0431\u043e\u0440 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u043e\u0432 \u0438\u0437 \u0441\u043f\u0438\u0441\u043a\u0430"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageList\/ProcessPageListRenderJSON.php",
+    "textdomain": "wire--modules--process--processpagelist--processpagelistrenderjson-php",
+    "translations": {
+        "de306d89ec101aba6fb73c6879710e6c": {
+            "text": "404 \u0421\u0442\u0440\u0430\u043d\u0438\u0446\u0430 \u043d\u0435 \u043d\u0430\u0439\u0434\u0435\u043d\u0430"
+        },
+        "e3afed0047b08059d0fada10f400c1e5": {
+            "text": "\u0410\u0434\u043c\u0438\u043d"
+        },
+        "f413b7eb4ef50a382b0fe0cfe04fdc30": {
+            "text": "\u041f\u0435\u0440\u0435\u0442\u0430\u0449\u0438\u0442\u0435 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u044b \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u044c \u043d\u0438\u0436\u0435, \u0447\u0442\u043e\u0431\u044b \u0443\u0434\u0430\u043b\u0438\u0442\u044c"
+        }
+    }
+}

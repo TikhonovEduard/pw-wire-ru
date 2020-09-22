@@ -1,0 +1,33 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldPageListSelect\/InputfieldPageListSelectMultiple.module",
+    "textdomain": "wire--modules--inputfield--inputfieldpagelistselect--inputfieldpagelistselectmultiple-module",
+    "translations": {
+        "ec211f7c20af43e742bf2570c3cb84f9": {
+            "text": "\u0414\u043e\u0431\u0430\u0432\u0438\u0442\u044c"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "\u0412\u044b\u0439\u0442\u0438"
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "\u0412\u044b\u0431\u0440\u0430\u0442\u044c"
+        },
+        "46b816f573557a53c93ac78bbcfa9493": {
+            "text": "\u041e\u0442\u043c\u0435\u043d\u0438\u0442\u044c \u0432\u044b\u0431\u043e\u0440"
+        },
+        "d3da97e2d9aee5c8fbe03156ad051c99": {
+            "text": "\u0414\u0430\u043b\u0435\u0435"
+        },
+        "1063e38cb53d94d386f21227fcd84717": {
+            "text": "\u041f\u0435\u0440\u0435\u043c\u0435\u0441\u0442\u0438\u0442\u044c"
+        },
+        "417c313c31381894998d5fa72eac82c8": {
+            "text": "\u041d\u0435\u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e \u043e\u0442\u043e\u0431\u0440\u0430\u0437\u0438\u0442\u044c \u044d\u0442\u043e \u043f\u043e\u043b\u0435 \u0438\u0437-\u0437\u0430 \u043e\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0438\u044f \u0440\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u0441\u043a\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u044b \u0432 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430\u0445 \u043f\u043e\u043b\u044f."
+        },
+        "fae5139ea4669e57a1e1d43da734b60d": {
+            "text": "\u041c\u043d\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0432\u044b\u0431\u043e\u0440  \u0438\u0437 \u0434\u0435\u0440\u0435\u0432\u0430 \u0441\u0442\u0440\u0430\u043d\u0438\u0446"
+        },
+        "3677aac44cf40763444008a08a7e33aa": {
+            "text": "\u0412\u044b\u0431\u043e\u0440 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u0438\u0445 \u0441\u0442\u0440\u0430\u043d\u0438\u0446 \u0438\u0437 \u0441\u043f\u0438\u0441\u043a\u0430 \u0432 \u0432\u0438\u0434\u0435 \u0434\u0435\u0440\u0435\u0432\u0430 \u0441\u0442\u0440\u0430\u043d\u0438\u0446 ProcessWire"
+        }
+    }
+}

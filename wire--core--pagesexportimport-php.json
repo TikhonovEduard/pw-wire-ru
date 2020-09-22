@@ -1,0 +1,36 @@
+{
+    "file": "wire\/core\/PagesExportImport.php",
+    "textdomain": "wire--core--pagesexportimport-php",
+    "translations": {
+        "624939f6a7a76d86e0b0e0938aacd940": {
+            "text": "\u0423\u0434\u0430\u043b\u0435\u043d \u0441\u0442\u0430\u0440\u044b\u0439 \u043a\u0430\u0442\u0430\u043b\u043e\u0433"
+        },
+        "97da05bb97ff56336c27fa114d6b0207": {
+            "text": "\u0423\u0434\u0430\u043b\u0435\u043d \u0441\u0442\u0430\u0440\u044b\u0439 \u0444\u0430\u0439\u043b"
+        },
+        "9b1cc00dbcf068b1122b605e857eaa09": {
+            "text": "\u0414\u043e\u0431\u0430\u0432\u043b\u0435\u043d %d \u0444\u0430\u0439\u043b"
+        },
+        "083adbc0f513ffcbf1b3d027b729d86b": {
+            "text": "\u0414\u043e\u0431\u0430\u0432\u043b\u0435\u043d\u043e %d \u0444\u0430\u0439\u043b\u043e\u0432"
+        },
+        "bdecf31cb76eacb6caf0208cfbbb592b": {
+            "text": "\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u043e %s \u0434\u043b\u044f %d \u0444\u0430\u0439\u043b\u0430"
+        },
+        "da66c53d674b9fa0de56b687a0bfa5aa": {
+            "text": "\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u043e %s \u0434\u043b\u044f %d \u0444\u0430\u0439\u043b\u043e\u0432"
+        },
+        "3a7a95fd4d51c39124770ea8b6118b15": {
+            "text": "\u0423\u0434\u0430\u043b\u0435\u043d %d \u0444\u0430\u0439\u043b"
+        },
+        "d92a31c9965349af72b77222b20eff0d": {
+            "text": "\u0423\u0434\u0430\u043b\u0435\u043d\u043e %d \u0444\u0430\u0439\u043b\u043e\u0432"
+        },
+        "f303c7e39b87bd05f15c54af9495df45": {
+            "text": "\u0414\u043e\u0431\u0430\u0432\u043b\u0435\u043d %d \u0444\u0430\u0439\u043b \u0447\u0435\u0440\u0435\u0437 %s"
+        },
+        "619e03cdcca42ac2af53e413ad13c264": {
+            "text": "\u0414\u043e\u0431\u0430\u0432\u043b\u0435\u043d\u043e %d \u0444\u0430\u0439\u043b\u043e\u0432 \u0447\u0435\u0440\u0435\u0437 %s"
+        }
+    }
+}
