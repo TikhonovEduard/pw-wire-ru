@@ -21,14 +21,14 @@
 1. Кликните    **Code > Download ZIP** на главной странице репозитория и скачайте последнюю версию русского перевода.
 2. Перейдите к администрированию вашего веб-сайта ProcessWire: "Настройки" > "Языки" > [название вашего языка] и удалите исходные файлы. Для этого дважды щелкните значок корзины рядом с любым файлом перевода.
 3. Кликните **Сохранить**,  файлы будут удалены.
-4.Выберите загруженный ZIP-файл на своем компьютере или перетащите его в поле "Core Translation Files". 
+4. Выберите загруженный ZIP-файл на своем компьютере или перетащите его в поле "Core Translation Files". 
 5. После извлечения файлов перевода нажмите **Сохранить**
 
 
 ### Поддержка русского языкового пакета
 
 - **Скачать**  этот языковой пакет можно в  [ProcessWire Modules Directory](#) или прямо здесь, в репозитории.
-- **Обсудить** можно на [ProcessWire Forum](#)
+- **Обсудить** можно на [ProcessWire Forum](https://processwire.com/talk/topic/24342-russian-ru-ru-maintained/)
 
 ---
 
@@ -63,4 +63,4 @@ Russian (ru-RU) translation files for ProcessWire 3.0.166
 ### Language Pack Support
 
 - **Download** this language pack from the [ProcessWire Modules Directory](#)
-- **Discuss** your ideas at the [ProcessWire Forum](#)
+- **Discuss** your ideas at the [ProcessWire Forum](https://processwire.com/talk/topic/24342-russian-ru-ru-maintained/)
