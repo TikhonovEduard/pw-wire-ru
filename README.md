@@ -27,7 +27,7 @@
 
 ### Поддержка русского языкового пакета
 
-- **Скачать**  этот языковой пакет можно в  [ProcessWire Modules Directory](#) или прямо здесь, в репозитории.
+- **Скачать**  этот языковой пакет можно в  [ProcessWire Modules Directory](https://modules.processwire.com/modules/pwrussian/) или прямо здесь, в репозитории.
 - **Обсудить** можно на [ProcessWire Forum](https://processwire.com/talk/topic/24342-russian-ru-ru-maintained/)
 
 ---
@@ -62,5 +62,5 @@ Russian (ru-RU) translation files for ProcessWire 3.0.166
 
 ### Language Pack Support
 
-- **Download** this language pack from the [ProcessWire Modules Directory](#)
+- **Download** this language pack from the [ProcessWire Modules Directory](https://modules.processwire.com/modules/pwrussian/)
 - **Discuss** your ideas at the [ProcessWire Forum](https://processwire.com/talk/topic/24342-russian-ru-ru-maintained/)
