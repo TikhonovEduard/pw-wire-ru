@@ -1,6 +1,6 @@
 {
-    "file": "wire\/modules\/Inputfield\/InputfieldCheckbox.module",
-    "textdomain": "wire--modules--inputfield--inputfieldcheckbox-module",
+    "file": "wire\/modules\/Inputfield\/InputfieldCheckbox\/InputfieldCheckbox.module",
+    "textdomain": "wire--modules--inputfield--inputfieldcheckbox--inputfieldcheckbox-module",
     "translations": {
         "2627637e263ef687fa978b576580b8b1": {
             "text": "\u041e\u0442\u043c\u0435\u0447\u0435\u043d\u043e"
