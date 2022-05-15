@@ -1,6 +1,6 @@
 {
-    "file": "wire\/modules\/AdminTheme\/AdminThemeUikit\/_sidenav-masthead.php",
-    "textdomain": "wire--modules--admintheme--adminthemeuikit--_sidenav-masthead-php",
+    "file": "wire\/modules\/AdminTheme\/AdminThemeUikit\/_sidenav\/_sidenav-masthead.php",
+    "textdomain": "wire--modules--admintheme--adminthemeuikit--_sidenav--_sidenav-masthead-php",
     "translations": {
         "a603905470e2a5b8c13e96b579ef0dba": {
             "text": "\u041e\u0442\u043b\u0430\u0434\u043a\u0430"
