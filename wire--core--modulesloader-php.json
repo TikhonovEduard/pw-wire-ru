@@ -1,0 +1,12 @@
+{
+    "file": "wire\/core\/ModulesLoader.php",
+    "textdomain": "wire--core--modulesloader-php",
+    "translations": {
+        "7f5ebaf3241ff21764054580a96a3b11": {
+            "text": "\u041d\u0435 \u0443\u0434\u0430\u043b\u043e\u0441\u044c \u0438\u043d\u0438\u0446\u0438\u0430\u043b\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u043c\u043e\u0434\u0443\u043b\u044c: %s"
+        },
+        "dc3b5200f4c5fe1739b1bb1946ed22c1": {
+            "text": "\u041d\u0435 \u0443\u0434\u0430\u043b\u043e\u0441\u044c \u043f\u043e\u0434\u0433\u043e\u0442\u043e\u0432\u0438\u0442\u044c \u043c\u043e\u0434\u0443\u043b\u044c: %s"
+        }
+    }
+}

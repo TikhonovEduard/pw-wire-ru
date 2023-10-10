@@ -1,0 +1,18 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldTinyMCE\/InputfieldTinyMCETools.php",
+    "textdomain": "wire--modules--inputfield--inputfieldtinymce--inputfieldtinymcetools-php",
+    "translations": {
+        "a6a7c6fa6520c795ddc1fd8b117fe491": {
+            "text": "\u041e\u0448\u0438\u0431\u043a\u0430 \u0434\u0435\u043a\u043e\u0434\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f JSON \u0434\u043b\u044f \u0441\u0432\u043e\u0439\u0441\u0442\u0432\u0430 TinyMCE  \"%1$s\" - %2$s"
+        },
+        "e8edb193e1cb171a17efe2765d72af71": {
+            "text": "\u0424\u0430\u0439\u043b \u043d\u0435 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u0435\u0442"
+        },
+        "a5a785b9182301d3185676786dedab6f": {
+            "text": "\u0420\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u0435 \u0444\u0430\u0439\u043b\u0430 \u043d\u0435 .json."
+        },
+        "5af86e6c312dea2e9c0f1397bbd0590f": {
+            "text": "\u041e\u0448\u0438\u0431\u043a\u0430 \u043a\u043e\u0434\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f JSON \u0434\u043b\u044f \u0441\u0432\u043e\u0439\u0441\u0442\u0432\u0430 TinyMCE  \"%1$s\" - %2$s"
+        }
+    }
+}
