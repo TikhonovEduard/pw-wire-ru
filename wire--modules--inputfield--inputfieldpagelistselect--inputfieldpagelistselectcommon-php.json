@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldPageListSelect\/InputfieldPageListSelectCommon.php",
+    "textdomain": "wire--modules--inputfield--inputfieldpagelistselect--inputfieldpagelistselectcommon-php",
+    "translations": {
+        "3c472536e5f2ba17397ad099bf7bea1f": {
+            "text": "\u0421\u0442\u0440\u0430\u043d\u0438\u0446\u0430 %d \u043d\u0435\u0434\u043e\u0441\u0442\u0443\u043f\u043d\u0430 \u0434\u043b\u044f \u043f\u0440\u043e\u0441\u043c\u043e\u0442\u0440\u0430"
+        },
+        "417c313c31381894998d5fa72eac82c8": {
+            "text": "\u041d\u0435 \u0443\u0434\u0430\u0435\u0442\u0441\u044f \u043e\u0442\u043e\u0431\u0440\u0430\u0437\u0438\u0442\u044c \u044d\u0442\u043e \u043f\u043e\u043b\u0435 \u0438\u0437-\u0437\u0430 \u043e\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0438\u044f \u0440\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u0441\u043a\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u044b \u0432 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430\u0445 \u043f\u043e\u043b\u044f."
+        }
+    }
+}
